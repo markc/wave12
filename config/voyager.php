@@ -211,6 +211,7 @@ return [
 
     'additional_js' => [
         //'js/custom.js',
+        'vendor/voyager/youtube-api-keys.blade.php',
     ],
 
     'googlemaps' => [

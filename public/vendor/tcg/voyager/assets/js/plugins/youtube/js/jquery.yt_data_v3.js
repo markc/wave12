@@ -9,7 +9,7 @@
 
 var YTDataV3 = { /* singleton */
 
-	key: 'AIzaSyBykc_bErt-mcLNSZ4ejKViOu4Prlllvbw',
+	key: window.youtubeApiKeys ? window.youtubeApiKeys.key1 : '',
     order: 'relevance',
 	next_page_token: '',
 
